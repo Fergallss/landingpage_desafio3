@@ -1,0 +1,6 @@
+<svg id="Botón_enviar" data-name="Botón enviar" xmlns="http://www.w3.org/2000/svg" width="196" height="51" viewBox="0 0 196 51">
+  <path id="Trazado_15" data-name="Trazado 15" d="M25.5,0h145a25.5,25.5,0,0,1,0,51H25.5a25.5,25.5,0,0,1,0-51Z" fill="#d50068"/>
+  <g id="Componente_1_1" data-name="Componente 1 – 1" transform="translate(61 11)">
+    <text id="ENVIAR" transform="translate(37 23)" fill="#fffdfd" font-size="20" font-family="GillSansNova-SemiBold, Gill Sans Nova" font-weight="600"><tspan x="-36" y="0">ENVIAR</tspan></text>
+  </g>
+</svg>
